@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:F57ACC,100:C7429E&text=hi%20there!!&fontColor=8F2FA1&animation=fadeIn&textBg=false&section=header" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:F57ACC,100:C7429E&text=hi%20there!!&fontColor=4E1757&animation=fadeIn&textBg=false&section=header" />
 </p>
-# 🌸 I'm Simarjit!
+🌸 I'm Simarjit!
 
 An engineering student exploring one rabbit hole at a time.
 
